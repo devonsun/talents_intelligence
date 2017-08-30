@@ -1,0 +1,49 @@
+sas
+stata
+statistics
+statistics
+gaussian
+bayesian
+regression
+modeling
+probability
+multivariate
+classification
+prediction
+supervised learning
+unsupervised learning
+ensemble learning
+feature engineering
+feature selection
+clustering
+algorithms
+bayesian
+pca
+svm
+support vector machine
+support vector classifier
+spam detection
+neural network
+bootstrap
+boosting
+bagging
+cross-validation
+cross validation
+k means
+k-means
+k nearest neighbors
+k-nearest-neighbors
+principle component analysis
+graphical models
+lstm
+cnn
+rnn
+decision tree
+xgboost
+linear dynamic system
+gradient
+self-driving
+monte carlo
+forecasting
+decision tree
+linear regression

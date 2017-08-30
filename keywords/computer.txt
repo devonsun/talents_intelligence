@@ -1,0 +1,68 @@
+c/c++
+c
+c++
+java
+python
+java
+hadoop
+mapreduce
+map reduce
+computer vision
+natural language processing
+deep learning
+face recognition
+speech recognition
+object detection
+distributed systems
+hdfs
+d3.js
+octave
+php
+spark
+database
+tensorflow
+mxnet
+keras
+caffe
+sql
+theano
+julia
+perl
+pig
+scala
+torch
+linux
+opencv
+opengl
+scikit-learn
+numpy
+scipy
+pandas
+nosql
+word2vec
+hbase
+zookeeper
+hive
+mahout
+php
+django
+aws
+mysql
+cntk
+mongo
+mongodb
+cassandra
+postgres
+kafka
+database
+r
+graphlab
+nlp
+matlab
+mllib
+keras
+gpu
+scala
+etl
+cloud
+text mining
